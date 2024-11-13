@@ -1,0 +1,17 @@
+.btn-primary {
+  background-color: #a9cae0;
+  border: 2px solid coral;
+}
+.btn-primary:hover {
+  background-color: rgb(131.5128205128, 178.8974358974, 210.4871794872);
+}
+
+.btn-info {
+  background-color: #a9cae0;
+  border: 2px solid coral;
+}
+.btn-info:hover {
+  background-color: rgb(131.5128205128, 178.8974358974, 210.4871794872);
+}
+
+/*# sourceMappingURL=custom.css.map */
